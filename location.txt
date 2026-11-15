@@ -1,0 +1,2 @@
+
+current directoy + \bs5\template\vertical\main-rtl
